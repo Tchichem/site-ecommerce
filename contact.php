@@ -27,6 +27,7 @@
         '$phone_number',
         '$subject',
         '$message',
+        '$date'
         NOW()
         )
         ");
