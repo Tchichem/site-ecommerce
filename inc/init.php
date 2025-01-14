@@ -10,7 +10,7 @@ $msg = "";
 
 session_start();
 
-define("URL", "http://" . $_SERVER["HTTP_HOST"] . "/site-ecommerce/");
-define("SITE_ROOT", $_SERVER["DOCUMENT_ROOT"] . "/site-ecommerce/");
+define("URL", "http://" . $_SERVER["HTTP_HOST"] . "");
+define("SITE_ROOT", $_SERVER["DOCUMENT_ROOT"] . "");
 
 ?>
